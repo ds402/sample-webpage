@@ -1,0 +1,11 @@
+.heading {
+    font-weight: 600;
+    font-size: medium;
+    color: cornflowerblue;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
